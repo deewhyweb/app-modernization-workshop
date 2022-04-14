@@ -29,4 +29,4 @@ The primary goal of the workshop is to guide the user through the migration of t
 We can use the tools within the KOnveyor community to move our applications.  We will use Tackle to assess and analyze the tomcat application, rehost the database into KubeVirt, migrate Spring Boot to Kubernetes, and refactor the Angular app to leverage the GitOps model properly on Kubernetes.
 
 
-Next [Step 2](./2-assessment.md)
+Next [Assessment](./2-assessment.md)

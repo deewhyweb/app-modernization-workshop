@@ -62,4 +62,4 @@ Now that we've completed the initial assessment we can see that we will need to 
 
 
 
-Next [Step 3](./3-analyze.md)
+Next [Analyze](./3-analyze.md)
