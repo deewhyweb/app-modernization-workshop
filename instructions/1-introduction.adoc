@@ -6,7 +6,7 @@ modernization scenario using tools provider by the Konveyor project.
 
 === About Konveyor
 
-KOnveyor is a community of people passionate about helping others
+Konveyor is a community of people passionate about helping others
 modernize and migrate their applications to the hybrid cloud by
 providing tools to accelerate rehosting, replatforming, and refactoring
 their applications to run on Kubernetes.
@@ -40,10 +40,10 @@ based deployments and the all new cloud-native technologies.
 
 === Konveyor tools
 
-We can use the tools within the KOnveyor community to move our
+We can use the tools within the Konveyor community to move our
 applications. We will use Tackle to assess and analyze the tomcat
 application, rehost the database into KubeVirt, migrate Spring Boot to
 Kubernetes, and refactor the Angular app to leverage the GitOps model
 properly on Kubernetes.
 
-Next link:./2-assessment.md[Assessment]
+Next link:./2-assessment.adoc[Assessment]

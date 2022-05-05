@@ -1,1 +1,1 @@
-Next link:./6-rehost.md[Step 6]
+Next link:./6-rehost.adoc[Step 6]

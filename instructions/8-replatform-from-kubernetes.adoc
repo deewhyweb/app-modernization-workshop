@@ -1,1 +1,1 @@
-Next link:./9-measure-and-sustain.md[Step 9]
+Next link:./9-measure-and-sustain.adoc[Step 9]

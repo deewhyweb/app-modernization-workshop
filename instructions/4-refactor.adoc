@@ -1,1 +1,1 @@
-Next link:./5-deploy-to-kubernetes.md[Step 5]
+Next link:./5-deploy-to-kubernetes.adoc[Step 5]

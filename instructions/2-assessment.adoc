@@ -90,4 +90,4 @@ need to dig deeper into the legacy customers application to check what
 the problem is with the config library and how to remove it. To do this
 we will use the analysis module of Tacke.
 
-Next link:./3-analyze.md[Analyze]
+Next link:./3-analyze.adoc[Analyze]
